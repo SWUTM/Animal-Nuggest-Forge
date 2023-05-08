@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:nuggest/skeleton"
+    },
+    "1": {
+      "tag": "forge:nuggest/skeleton"
+    },
+    "2": {
+      "tag": "forge:nuggest/skeleton"
+    },
+    "3": {
+      "tag": "forge:nuggest/skeleton"
+    },
+    "4": {
+      "tag": "forge:nuggest/skeleton"
+    },
+    "5": {
+      "tag": "forge:nuggest/skeleton"
+    },
+    "6": {
+      "tag": "forge:nuggest/skeleton"
+    },
+    "7": {
+      "tag": "forge:nuggest/skeleton"
+    },
+    "8": {
+      "tag": "forge:nuggest/skeleton"
+    }
+  },
+  "result": {
+    "item": "minecraft:skeleton_spawn_egg",
+    "count": 1
+  }
+}

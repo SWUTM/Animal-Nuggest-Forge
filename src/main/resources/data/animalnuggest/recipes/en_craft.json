@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:nuggest/enderman"
+    },
+    "1": {
+      "tag": "forge:nuggest/enderman"
+    },
+    "2": {
+      "tag": "forge:nuggest/enderman"
+    },
+    "3": {
+      "tag": "forge:nuggest/enderman"
+    },
+    "4": {
+      "tag": "forge:nuggest/enderman"
+    },
+    "5": {
+      "tag": "forge:nuggest/enderman"
+    },
+    "6": {
+      "tag": "forge:nuggest/enderman"
+    },
+    "7": {
+      "tag": "forge:nuggest/enderman"
+    },
+    "8": {
+      "tag": "forge:nuggest/enderman"
+    }
+  },
+  "result": {
+    "item": "minecraft:enderman_spawn_egg",
+    "count": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:nuggest/creeper"
+    },
+    "1": {
+      "tag": "forge:nuggest/creeper"
+    },
+    "2": {
+      "tag": "forge:nuggest/creeper"
+    },
+    "3": {
+      "tag": "forge:nuggest/creeper"
+    },
+    "4": {
+      "tag": "forge:nuggest/creeper"
+    },
+    "5": {
+      "tag": "forge:nuggest/creeper"
+    },
+    "6": {
+      "tag": "forge:nuggest/creeper"
+    },
+    "7": {
+      "tag": "forge:nuggest/creeper"
+    },
+    "8": {
+      "tag": "forge:nuggest/creeper"
+    }
+  },
+  "result": {
+    "item": "minecraft:creeper_spawn_egg",
+    "count": 1
+  }
+}

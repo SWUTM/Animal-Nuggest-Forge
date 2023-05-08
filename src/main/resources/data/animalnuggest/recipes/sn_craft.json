@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:nuggest/slime"
+    },
+    "1": {
+      "tag": "forge:nuggest/slime"
+    },
+    "2": {
+      "tag": "forge:nuggest/slime"
+    },
+    "3": {
+      "tag": "forge:nuggest/slime"
+    },
+    "4": {
+      "tag": "forge:nuggest/slime"
+    },
+    "5": {
+      "tag": "forge:nuggest/slime"
+    },
+    "6": {
+      "tag": "forge:nuggest/slime"
+    },
+    "7": {
+      "tag": "forge:nuggest/slime"
+    },
+    "8": {
+      "tag": "forge:nuggest/slime"
+    }
+  },
+  "result": {
+    "item": "minecraft:slime_spawn_egg",
+    "count": 1
+  }
+}
